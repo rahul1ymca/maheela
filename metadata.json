@@ -1,0 +1,6 @@
+{
+  "name": "तलाकशुदा महिलाओं के लिए सरकारी नौकरी में आरक्षण",
+  "description": "तलाकशुदा महिलाओं के लिए सरकारी नौकरी में आरक्षण, विशेष आयु सीमा छूट, आवश्यक दस्तावेज, राज्यवार नियम व आवेदन की पूरी जानकारी।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
